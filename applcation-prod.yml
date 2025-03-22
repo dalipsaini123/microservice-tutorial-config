@@ -1,7 +1,7 @@
 
 spring:
   application:
-    name: config.prod
+    name: prod-default
 eureka:
   client:
     service-url:
